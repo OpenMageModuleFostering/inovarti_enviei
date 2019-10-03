@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Inovarti_Enviei",
+    "name": "OpenMageModuleFostering\/Inovarti_Enviei",
     "type": "magento-module",
     "license": "Inovarti-License",
     "homepage": "",
     "description": "API para integrar com Enviei",
     "authors": [
-    {
-        "name": "Inovarti",
-        "email": "suporte@inovarti.com.br"
-    }
-],
+        {
+            "name": "Inovarti",
+            "email": "suporte@inovarti.com.br"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
